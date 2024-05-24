@@ -8,17 +8,17 @@ Crear un sistema CRUD (Crear, Leer, Actualizar, Eliminar) utilizando MongoDB com
 - Mongoose
 
 ## Dependencias utilizadas:
--MongoDb
--Mongoose
--Express
--Bcrypt
--Jsonwebtoken
--Body-parser
--Method-override
--Express-handlebars
--Express-session
+- MongoDb
+- Mongoose
+- Express
+- Bcrypt
+- Jsonwebtoken
+- Body-parser
+- Method-override
+- Express-handlebars
+- Express-session
 
 ## Variables de entorno:
--Dotenv
--Nodemoon
--npm-check-updates
+- Dotenv
+- Nodemoon
+- npm-check-updates
