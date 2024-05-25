@@ -22,3 +22,18 @@ Crear un sistema CRUD (Crear, Leer, Actualizar, Eliminar) utilizando MongoDB com
 - Dotenv
 - Nodemoon
 - npm-check-updates
+
+## Para comenzar 
+- Elegir tu carpeta raiz e inicializar proyecto  con **node npm init -y**
+- Instalar las dependencias
+- Instalar las variables de entorno
+- Crea un archivo **.env** y configura tus variables de entorno
+- Para arrancar la aplicacion  ejecuta el comando **npm run dev** en tu consola
+
+## Crear usuario
+-  Entra en **/api/user/create**
+
+## Login 
+- Entra en **/api/user/login**
+
+
